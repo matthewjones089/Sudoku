@@ -1,0 +1,11 @@
+I:\sudoku\sudoku\bin\Release\sudoku.exe
+I:\sudoku\sudoku\bin\Release\sudoku.pdb
+I:\sudoku\sudoku\bin\Release\sudoku.xml
+I:\sudoku\sudoku\obj\x86\Release\ResolveAssemblyReference.cache
+I:\sudoku\sudoku\obj\x86\Release\WindowsApplication1.Form1.resources
+I:\sudoku\sudoku\obj\x86\Release\WindowsApplication1.Resources.resources
+I:\sudoku\sudoku\obj\x86\Release\GenerateResource.read.1.tlog
+I:\sudoku\sudoku\obj\x86\Release\GenerateResource.write.1.tlog
+I:\sudoku\sudoku\obj\x86\Release\sudoku.exe
+I:\sudoku\sudoku\obj\x86\Release\sudoku.xml
+I:\sudoku\sudoku\obj\x86\Release\sudoku.pdb

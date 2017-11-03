@@ -1,0 +1,52 @@
+C:\Users\Clare\Documents\Visual Studio 2010\Projects\sudoku\sudoku\bin\Debug\sudoku.exe
+C:\Users\Clare\Documents\Visual Studio 2010\Projects\sudoku\sudoku\bin\Debug\sudoku.pdb
+C:\Users\Clare\Documents\Visual Studio 2010\Projects\sudoku\sudoku\bin\Debug\sudoku.xml
+C:\Users\Clare\Documents\Visual Studio 2010\Projects\sudoku\sudoku\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Clare\Documents\Visual Studio 2010\Projects\sudoku\sudoku\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Clare\Documents\Visual Studio 2010\Projects\sudoku\sudoku\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Clare\Documents\Visual Studio 2010\Projects\sudoku\sudoku\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Clare\Documents\Visual Studio 2010\Projects\sudoku\sudoku\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Clare\Documents\Visual Studio 2010\Projects\sudoku\sudoku\obj\x86\Debug\sudoku.exe
+C:\Users\Clare\Documents\Visual Studio 2010\Projects\sudoku\sudoku\obj\x86\Debug\sudoku.xml
+C:\Users\Clare\Documents\Visual Studio 2010\Projects\sudoku\sudoku\obj\x86\Debug\sudoku.pdb
+I:\sudoku\sudoku\obj\x86\Debug\sudoku.exe
+I:\sudoku\sudoku\obj\x86\Debug\sudoku.xml
+I:\sudoku\sudoku\obj\x86\Debug\sudoku.pdb
+I:\sudoku\sudoku\bin\Debug\sudoku.exe
+I:\sudoku\sudoku\bin\Debug\sudoku.pdb
+I:\sudoku\sudoku\bin\Debug\sudoku.xml
+I:\sudoku\sudoku\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\sudoku\sudoku\obj\x86\Debug\WindowsApplication1.Form1.resources
+I:\sudoku\sudoku\obj\x86\Debug\WindowsApplication1.Resources.resources
+I:\sudoku\sudoku\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\sudoku\sudoku\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\sudoku\sudoku\obj\x86\Debug\sudoku.exe
+E:\sudoku\sudoku\obj\x86\Debug\sudoku.xml
+E:\sudoku\sudoku\obj\x86\Debug\sudoku.pdb
+E:\sudoku\sudoku\bin\Debug\sudoku.exe
+E:\sudoku\sudoku\bin\Debug\sudoku.pdb
+E:\sudoku\sudoku\bin\Debug\sudoku.xml
+E:\sudoku\sudoku\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\sudoku\sudoku\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\sudoku\sudoku\obj\x86\Debug\sudoku.vbproj.GenerateResource.Cache
+E:\Computing\sudoku\sudoku\obj\x86\Debug\sudoku.exe
+E:\Computing\sudoku\sudoku\obj\x86\Debug\sudoku.xml
+E:\Computing\sudoku\sudoku\obj\x86\Debug\sudoku.pdb
+E:\Computing\sudoku\sudoku\bin\Debug\sudoku.exe
+E:\Computing\sudoku\sudoku\bin\Debug\sudoku.pdb
+E:\Computing\sudoku\sudoku\bin\Debug\sudoku.xml
+E:\Computing\sudoku\sudoku\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\Computing\sudoku\sudoku\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Computing\sudoku\sudoku\obj\x86\Debug\sudoku.vbproj.GenerateResource.Cache
+E:\old work\Computing\sudoku\sudoku\obj\x86\Debug\sudoku.exe
+E:\old work\Computing\sudoku\sudoku\obj\x86\Debug\sudoku.xml
+E:\old work\Computing\sudoku\sudoku\obj\x86\Debug\sudoku.pdb
+H:\old work\Computing\sudoku\sudoku\obj\x86\Debug\sudoku.exe
+H:\old work\Computing\sudoku\sudoku\obj\x86\Debug\sudoku.xml
+H:\old work\Computing\sudoku\sudoku\obj\x86\Debug\sudoku.pdb
+H:\old work\Computing\sudoku\sudoku\bin\Debug\sudoku.exe
+H:\old work\Computing\sudoku\sudoku\bin\Debug\sudoku.pdb
+H:\old work\Computing\sudoku\sudoku\bin\Debug\sudoku.xml
+H:\old work\Computing\sudoku\sudoku\obj\x86\Debug\WindowsApplication1.Form1.resources
+H:\old work\Computing\sudoku\sudoku\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\old work\Computing\sudoku\sudoku\obj\x86\Debug\sudoku.vbproj.GenerateResource.Cache
